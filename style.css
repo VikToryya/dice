@@ -1,0 +1,33 @@
+body{
+    background-color: #393E46;
+}
+
+.title{
+    font-family: 'Lobster';
+    /* font-size: 70px; */
+    font-size: 4rem;
+    max-width: 1000px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: #4ECCA3;
+    text-shadow: #232931 8px 0px;
+    margin: 0 auto;
+}
+.images {
+    max-width: 700px;
+    display: flex;
+    justify-content: space-around;
+    align-self: center;
+    margin: 0 auto;
+}
+h2{
+    text-align: center;
+    color: #4ECCA3;
+    font-family: 'Indie Flower';
+    font-size: 32px;
+}
+.img1 {
+}
+.img2 {
+}
